@@ -1,4 +1,4 @@
-First attempt at a simple laser defender game.
+Made in Unity using c#
 
 Currently in the one unlimited level you fight enemies that fly across the screen with your main attack (Spacebar).
 There are three different types of enemies that will attack you, you are supposed to avoid them (W,A,S,D).
